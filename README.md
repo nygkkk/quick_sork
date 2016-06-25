@@ -1,2 +1,2 @@
 # quick_sork
-quck_sork nums
+quick_sork nums
